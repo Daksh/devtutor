@@ -29,8 +29,6 @@ import gtk
 import telepathy
 import telepathy.client
 
-from abiword import Canvas
-
 from sugar.activity import activity
 from sugar.activity.widgets import StopButton
 from sugar.activity.widgets import ActivityToolbarButton

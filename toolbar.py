@@ -19,7 +19,6 @@
 from gettext import gettext as _
 import logging
 
-import abiword
 import gtk
 
 from sugar.graphics.toolbutton import ToolButton
